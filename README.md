@@ -1,2 +1,2 @@
 # hello_world
-just to lear how to use it
+just to learn how to use it
